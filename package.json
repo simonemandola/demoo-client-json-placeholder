@@ -1,0 +1,22 @@
+{
+  "name": "demoo-client-json-placeholder",
+  "version": "1.0.0",
+  "description": "Ejemplo de actividad donde creo un blog desde un API REST.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonemandola/demoo-client-json-placeholder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonemandola/demoo-client-json-placeholder/issues"
+  },
+  "homepage": "https://github.com/simonemandola/demoo-client-json-placeholder#readme",
+  "dependencies": {
+    "vue": "^3.2.29"
+  }
+}
